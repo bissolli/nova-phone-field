@@ -74,18 +74,6 @@ PhoneNumber::make('Phone Number')
     ->onlyCustomFormats(),
 ```
 
-## Testing
-
-To be implemented
-
-## Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
 ## Security
 
 If you discover any security-related issues, please email gustavo.bissolli@gmail.com instead of using the issue tracker.
