@@ -1,0 +1,39 @@
+{
+    "name": "bissolli/nova-phone-field",
+    "description": "A phone field for Laravel Nova apps.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "phone mask",
+        "input mask"
+    ],
+    "homepage": "https://github.com/bissolli/nova-phone-field",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gustavo Bissolli",
+            "email": "gustavo.bissolli@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bissolli\\NovaPhoneField\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bissolli\\NovaPhoneField\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

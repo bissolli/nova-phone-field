@@ -1,0 +1,1754 @@
+[
+	{
+		"country": "Afghanistan",
+		"country_code": "AF",
+		"description": "",
+		"mask": "+93-##-###-####"
+	},
+	{
+		"country": "Albania",
+		"country_code": "AL",
+		"description": "",
+		"mask": "+355 (###) ###-###"
+	},
+	{
+		"country": "Algeria",
+		"country_code": "DZ",
+		"description": "",
+		"mask": "+213-##-###-####"
+	},
+	{
+		"country": "American Samoa",
+		"country_code": "AS",
+		"description": "",
+		"mask": "+1 (684) ###-####"
+	},
+	{
+		"country": "Andorra",
+		"country_code": "AD",
+		"description": "",
+		"mask": "+376-###-###"
+	},
+	{
+		"country": "Angola",
+		"country_code": "AO",
+		"description": "",
+		"mask": "+244 (###) ###-###"
+	},
+	{
+		"country": "Anguilla",
+		"country_code": "AI",
+		"description": "",
+		"mask": "+1 (264) ###-####"
+	},
+	{
+		"country": "Antigua & Barbuda",
+		"country_code": "AG",
+		"description": "",
+		"mask": "+1 (268) ###-####"
+	},
+	{
+		"country": "Argentina",
+		"country_code": "AR",
+		"description": "",
+		"mask": "+54 (###) ###-####"
+	},
+	{
+		"country": "Armenia",
+		"country_code": "AM",
+		"description": "",
+		"mask": "+374-##-###-###"
+	},
+	{
+		"country": "Aruba",
+		"country_code": "AW",
+		"description": "",
+		"mask": "+297-###-####"
+	},
+	{
+		"country": "Ascension",
+		"country_code": "AC",
+		"description": "",
+		"mask": "+247-####"
+	},
+	{
+		"country": "Australia",
+		"country_code": "AU",
+		"description": "",
+		"mask": "+61-#-####-####"
+	},
+	{
+		"country": "Australian bases in Antarctica",
+		"country_code": "AQ",
+		"description": "",
+		"mask": "+672-1##-###"
+	},
+	{
+		"country": "Austria",
+		"country_code": "AT",
+		"description": "",
+		"mask": "+43 (###) ###-####"
+	},
+	{
+		"country": "Azerbaijan",
+		"country_code": "AZ",
+		"description": "",
+		"mask": "+994-##-###-##-##"
+	},
+	{
+		"country": "Bahamas",
+		"country_code": "BS",
+		"description": "",
+		"mask": "+1 (242) ###-####"
+	},
+	{
+		"country": "Bahrain",
+		"country_code": "BH",
+		"description": "",
+		"mask": "+973-####-####"
+	},
+	{
+		"country": "Bangladesh",
+		"country_code": "BD",
+		"description": "",
+		"mask": "+880-##-###-###"
+	},
+	{
+		"country": "Barbados",
+		"country_code": "BB",
+		"description": "",
+		"mask": "+1 (246) ###-####"
+	},
+	{
+		"country": "Belarus",
+		"country_code": "BY",
+		"description": "",
+		"mask": "+375 (##) ###-##-##"
+	},
+	{
+		"country": "Belgium",
+		"country_code": "BE",
+		"description": "",
+		"mask": "+32 (###) ###-###"
+	},
+	{
+		"country": "Belize",
+		"country_code": "BZ",
+		"description": "",
+		"mask": "+501-###-####"
+	},
+	{
+		"country": "Benin",
+		"country_code": "BJ",
+		"description": "",
+		"mask": "+229-##-##-####"
+	},
+	{
+		"country": "Bermuda",
+		"country_code": "BM",
+		"description": "",
+		"mask": "+1 (441) ###-####"
+	},
+	{
+		"country": "Bhutan",
+		"country_code": "BT",
+		"description": "",
+		"mask": "+975-#-###-###"
+	},
+	{
+		"country": "Bhutan",
+		"country_code": "BT",
+		"description": "",
+		"mask": "+975-17-###-###"
+	},
+	{
+		"country": "Bolivia",
+		"country_code": "BO",
+		"description": "",
+		"mask": "+591-#-###-####"
+	},
+	{
+		"country": "Bosnia and Herzegovina",
+		"country_code": "BA",
+		"description": "",
+		"mask": "+387-##-####"
+	},
+	{
+		"country": "Bosnia and Herzegovina",
+		"country_code": "BA",
+		"description": "",
+		"mask": "+387-##-#####"
+	},
+	{
+		"country": "Botswana",
+		"country_code": "BW",
+		"description": "",
+		"mask": "+267-##-###-###"
+	},
+	{
+		"country": "Brazil",
+		"country_code": "BR",
+		"description": "",
+		"mask": "+55 (##) ####-####"
+	},
+	{
+		"country": "Brazil",
+		"country_code": "BR",
+		"description": "mobile",
+		"mask": "+55 (##) 7###-####"
+	},
+	{
+		"country": "Brazil",
+		"country_code": "BR",
+		"description": "mobile",
+		"mask": "+55 (##) 9 ####-####"
+	},
+	{
+		"country": "British Virgin Islands",
+		"country_code": "VG",
+		"description": "",
+		"mask": "+1 (284) ###-####"
+	},
+	{
+		"country": "Brunei Darussalam",
+		"country_code": "BN",
+		"description": "",
+		"mask": "+673-###-####"
+	},
+	{
+		"country": "Bulgaria",
+		"country_code": "BG",
+		"description": "",
+		"mask": "+359 (###) ###-###"
+	},
+	{
+		"country": "Burkina Faso",
+		"country_code": "BF",
+		"description": "",
+		"mask": "+226-##-##-####"
+	},
+	{
+		"country": "Burma  (Myanmar) ",
+		"country_code": "MM",
+		"description": "",
+		"mask": "+95-###-###"
+	},
+	{
+		"country": "Burma  (Myanmar) ",
+		"country_code": "MM",
+		"description": "",
+		"mask": "+95-##-###-###"
+	},
+	{
+		"country": "Burma  (Myanmar) ",
+		"country_code": "MM",
+		"description": "",
+		"mask": "+95-#-###-###"
+	},
+	{
+		"country": "Burundi",
+		"country_code": "BI",
+		"description": "",
+		"mask": "+257-##-##-####"
+	},
+	{
+		"country": "Cambodia",
+		"country_code": "KH",
+		"description": "",
+		"mask": "+855-##-###-###"
+	},
+	{
+		"country": "Cameroon",
+		"country_code": "CM",
+		"description": "",
+		"mask": "+237-####-####"
+	},
+	{
+		"country": "Canada",
+		"country_code": "CA",
+		"description": "",
+		"mask": "+1 (###) ###-####"
+	},
+	{
+		"country": "Cape Verde",
+		"country_code": "CV",
+		"description": "",
+		"mask": "+238 (###) ##-##"
+	},
+	{
+		"country": "Cayman Islands",
+		"country_code": "KY",
+		"description": "",
+		"mask": "+1 (345) ###-####"
+	},
+	{
+		"country": "Central African Republic",
+		"country_code": "CF",
+		"description": "",
+		"mask": "+236-##-##-####"
+	},
+	{
+		"country": "Chad",
+		"country_code": "TD",
+		"description": "",
+		"mask": "+235-##-##-##-##"
+	},
+	{
+		"country": "Chile",
+		"country_code": "CL",
+		"description": "",
+		"mask": "+56-#-####-####"
+	},
+	{
+		"country": "China  (PRC) ",
+		"country_code": "CN",
+		"description": "",
+		"mask": "+86 (###) ####-###"
+	},
+	{
+		"country": "China  (PRC) ",
+		"country_code": "CN",
+		"description": "",
+		"mask": "+86 (###) ####-####"
+	},
+	{
+		"country": "China  (PRC) ",
+		"country_code": "CN",
+		"description": "",
+		"mask": "+86-##-#####-#####"
+	},
+	{
+		"country": "Colombia",
+		"country_code": "CO",
+		"description": "",
+		"mask": "+57 (###) ###-####"
+	},
+	{
+		"country": "Comoros",
+		"country_code": "KM",
+		"description": "",
+		"mask": "+269-##-#####"
+	},
+	{
+		"country": "Congo  (Brazzaville) ",
+		"country_code": "CG",
+		"description": "",
+		"mask": "+242-##-###-####"
+	},
+	{
+		"country": "Cook Islands",
+		"country_code": "CK",
+		"description": "",
+		"mask": "+682-##-###"
+	},
+	{
+		"country": "Costa Rica",
+		"country_code": "CR",
+		"description": "",
+		"mask": "+506-####-####"
+	},
+	{
+		"country": "Cote d’Ivoire  (Ivory Coast) ",
+		"country_code": "CI",
+		"description": "",
+		"mask": "+225-##-###-###"
+	},
+	{
+		"country": "Croatia",
+		"country_code": "HR",
+		"description": "",
+		"mask": "+385-##-###-###"
+	},
+	{
+		"country": "Cuba",
+		"country_code": "CU",
+		"description": "",
+		"mask": "+53-#-###-####"
+	},
+	{
+		"country": "Curacao",
+		"country_code": "CW",
+		"description": "",
+		"mask": "+599-###-####"
+	},
+	{
+		"country": "Cyprus",
+		"country_code": "CY",
+		"description": "",
+		"mask": "+357-##-###-###"
+	},
+	{
+		"country": "Czech Republic",
+		"country_code": "CZ",
+		"description": "",
+		"mask": "+420 (###) ###-###"
+	},
+	{
+		"country": "DPR Korea  (North)  ",
+		"country_code": "KP",
+		"description": "mobile",
+		"mask": "+850-191-###-####"
+	},
+	{
+		"country": "DPR Korea  (North) ",
+		"country_code": "KP",
+		"description": "",
+		"mask": "+850-####-####"
+	},
+	{
+		"country": "DPR Korea  (North) ",
+		"country_code": "KP",
+		"description": "",
+		"mask": "+850-####-#############"
+	},
+	{
+		"country": "DPR Korea  (North) ",
+		"country_code": "KP",
+		"description": "",
+		"mask": "+850-###-###"
+	},
+	{
+		"country": "DPR Korea  (North) ",
+		"country_code": "KP",
+		"description": "",
+		"mask": "+850-###-####-###"
+	},
+	{
+		"country": "DPR Korea  (North) ",
+		"country_code": "KP",
+		"description": "",
+		"mask": "+850-##-###-###"
+	},
+	{
+		"country": "Dem. Rep. Congo",
+		"country_code": "CD",
+		"description": "",
+		"mask": "+243 (###) ###-###"
+	},
+	{
+		"country": "Denmark",
+		"country_code": "DK",
+		"description": "",
+		"mask": "+45-##-##-##-##"
+	},
+	{
+		"country": "Diego Garcia",
+		"country_code": "IO",
+		"description": "",
+		"mask": "+246-###-####"
+	},
+	{
+		"country": "Djibouti",
+		"country_code": "DJ",
+		"description": "",
+		"mask": "+253-##-##-##-##"
+	},
+	{
+		"country": "Dominica",
+		"country_code": "DM",
+		"description": "",
+		"mask": "+1 (767) ###-####"
+	},
+	{
+		"country": "Dominican Republic",
+		"country_code": "DO",
+		"description": "",
+		"mask": "+1 (809) ###-####"
+	},
+	{
+		"country": "Dominican Republic",
+		"country_code": "DO",
+		"description": "",
+		"mask": "+1 (829) ###-####"
+	},
+	{
+		"country": "Dominican Republic",
+		"country_code": "DO",
+		"description": "",
+		"mask": "+1 (849) ###-####"
+	},
+	{
+		"country": "East Timor",
+		"country_code": "TL",
+		"description": "",
+		"mask": "+670-###-####"
+	},
+	{
+		"country": "East Timor",
+		"country_code": "TL",
+		"description": "",
+		"mask": "+670-77#-#####"
+	},
+	{
+		"country": "East Timor",
+		"country_code": "TL",
+		"description": "",
+		"mask": "+670-78#-#####"
+	},
+	{
+		"country": "Ecuador ",
+		"country_code": "EC",
+		"description": "mobile",
+		"mask": "+593-##-###-####"
+	},
+	{
+		"country": "Ecuador",
+		"country_code": "EC",
+		"description": "",
+		"mask": "+593-#-###-####"
+	},
+	{
+		"country": "Egypt",
+		"country_code": "EG",
+		"description": "",
+		"mask": "+20 (###) ###-####"
+	},
+	{
+		"country": "El Salvador",
+		"country_code": "SV",
+		"description": "",
+		"mask": "+503-##-##-####"
+	},
+	{
+		"country": "Equatorial Guinea",
+		"country_code": "GQ",
+		"description": "",
+		"mask": "+240-##-###-####"
+	},
+	{
+		"country": "Eritrea",
+		"country_code": "ER",
+		"description": "",
+		"mask": "+291-#-###-###"
+	},
+	{
+		"country": "Estonia ",
+		"country_code": "EE",
+		"description": "mobile",
+		"mask": "+372-####-####"
+	},
+	{
+		"country": "Estonia",
+		"country_code": "EE",
+		"description": "",
+		"mask": "+372-###-####"
+	},
+	{
+		"country": "Ethiopia",
+		"country_code": "ET",
+		"description": "",
+		"mask": "+251-##-###-####"
+	},
+	{
+		"country": "F.S. Micronesia",
+		"country_code": "FM",
+		"description": "",
+		"mask": "+691-###-####"
+	},
+	{
+		"country": "Falkland Islands",
+		"country_code": "FK",
+		"description": "",
+		"mask": "+500-#####"
+	},
+	{
+		"country": "Faroe Islands",
+		"country_code": "FO",
+		"description": "",
+		"mask": "+298-###-###"
+	},
+	{
+		"country": "Fiji",
+		"country_code": "FJ",
+		"description": "",
+		"mask": "+679-##-#####"
+	},
+	{
+		"country": "Finland",
+		"country_code": "FI",
+		"description": "",
+		"mask": "+358 (###) ###-##-##"
+	},
+	{
+		"country": "France",
+		"country_code": "FR",
+		"description": "",
+		"mask": "+33 (###) ###-###"
+	},
+	{
+		"country": "French Polynesia",
+		"country_code": "PF",
+		"description": "",
+		"mask": "+689-##-##-##"
+	},
+	{
+		"country": "Gabon",
+		"country_code": "GA",
+		"description": "",
+		"mask": "+241-#-##-##-##"
+	},
+	{
+		"country": "Gambia",
+		"country_code": "GM",
+		"description": "",
+		"mask": "+220 (###) ##-##"
+	},
+	{
+		"country": "Germany",
+		"country_code": "DE",
+		"description": "",
+		"mask": "+49 (####) ###-####"
+	},
+	{
+		"country": "Germany",
+		"country_code": "DE",
+		"description": "",
+		"mask": "+49 (###) ###-####"
+	},
+	{
+		"country": "Germany",
+		"country_code": "DE",
+		"description": "",
+		"mask": "+49 (###) ##-##"
+	},
+	{
+		"country": "Germany",
+		"country_code": "DE",
+		"description": "",
+		"mask": "+49 (###) ##-###"
+	},
+	{
+		"country": "Germany",
+		"country_code": "DE",
+		"description": "",
+		"mask": "+49 (###) ##-####"
+	},
+	{
+		"country": "Germany",
+		"country_code": "DE",
+		"description": "",
+		"mask": "+49-###-###"
+	},
+	{
+		"country": "Ghana",
+		"country_code": "GH",
+		"description": "",
+		"mask": "+233 (###) ###-###"
+	},
+	{
+		"country": "Gibraltar",
+		"country_code": "GI",
+		"description": "",
+		"mask": "+350-###-#####"
+	},
+	{
+		"country": "Greece",
+		"country_code": "GR",
+		"description": "",
+		"mask": "+30 (###) ###-####"
+	},
+	{
+		"country": "Greenland",
+		"country_code": "GL",
+		"description": "",
+		"mask": "+299-##-##-##"
+	},
+	{
+		"country": "Grenada",
+		"country_code": "GD",
+		"description": "",
+		"mask": "+1 (473) ###-####"
+	},
+	{
+		"country": "Guadeloupe",
+		"country_code": "FR",
+		"description": "",
+		"mask": "+590 (###) ###-###"
+	},
+	{
+		"country": "Guam",
+		"country_code": "GU",
+		"description": "",
+		"mask": "+1 (671) ###-####"
+	},
+	{
+		"country": "Guatemala",
+		"country_code": "GT",
+		"description": "",
+		"mask": "+502-#-###-####"
+	},
+	{
+		"country": "Guiana  (French) ",
+		"country_code": "GF",
+		"description": "",
+		"mask": "+594-#####-####"
+	},
+	{
+		"country": "Guinea",
+		"country_code": "GN",
+		"description": "",
+		"mask": "+224-##-###-###"
+	},
+	{
+		"country": "Guinea-Bissau",
+		"country_code": "GW",
+		"description": "",
+		"mask": "+245-#-######"
+	},
+	{
+		"country": "Guyana",
+		"country_code": "GY",
+		"description": "",
+		"mask": "+592-###-####"
+	},
+	{
+		"country": "Haiti",
+		"country_code": "HT",
+		"description": "",
+		"mask": "+509-##-##-####"
+	},
+	{
+		"country": "Honduras",
+		"country_code": "HN",
+		"description": "",
+		"mask": "+504-####-####"
+	},
+	{
+		"country": "Hong Kong",
+		"country_code": "HK",
+		"description": "",
+		"mask": "+852-####-####"
+	},
+	{
+		"country": "Hungary",
+		"country_code": "HU",
+		"description": "",
+		"mask": "+36 (###) ###-###"
+	},
+	{
+		"country": "Iceland",
+		"country_code": "IS",
+		"description": "",
+		"mask": "+354-###-####"
+	},
+	{
+		"country": "India",
+		"country_code": "IN",
+		"description": "",
+		"mask": "+91 (####) ###-###"
+	},
+	{
+		"country": "Indonesia ",
+		"country_code": "ID",
+		"description": "mobile",
+		"mask": "+62 (8##) ###-###"
+	},
+	{
+		"country": "Indonesia ",
+		"country_code": "ID",
+		"description": "mobile",
+		"mask": "+62 (8##) ###-####"
+	},
+	{
+		"country": "Indonesia ",
+		"country_code": "ID",
+		"description": "mobile",
+		"mask": "+62 (8##) ###-##-###"
+	},
+	{
+		"country": "Indonesia",
+		"country_code": "ID",
+		"description": "",
+		"mask": "+62-##-###-##"
+	},
+	{
+		"country": "Indonesia",
+		"country_code": "ID",
+		"description": "",
+		"mask": "+62-##-###-###"
+	},
+	{
+		"country": "Indonesia",
+		"country_code": "ID",
+		"description": "",
+		"mask": "+62-##-###-####"
+	},
+	{
+		"country": "Iran",
+		"country_code": "IR",
+		"description": "",
+		"mask": "+98 (###) ###-####"
+	},
+	{
+		"country": "Iraq",
+		"country_code": "IQ",
+		"description": "",
+		"mask": "+964 (###) ###-####"
+	},
+	{
+		"country": "Ireland",
+		"country_code": "IE",
+		"description": "",
+		"mask": "+353 (###) ###-###"
+	},
+	{
+		"country": "Israel ",
+		"country_code": "IL",
+		"description": "mobile",
+		"mask": "+972-5#-###-####"
+	},
+	{
+		"country": "Israel",
+		"country_code": "IL",
+		"description": "",
+		"mask": "+972-#-###-####"
+	},
+	{
+		"country": "Italy",
+		"country_code": "IT",
+		"description": "",
+		"mask": "+39 (###) ####-###"
+	},
+	{
+		"country": "Jamaica",
+		"country_code": "JM",
+		"description": "",
+		"mask": "+1 (876) ###-####"
+	},
+	{
+		"country": "Japan ",
+		"country_code": "JP",
+		"description": "mobile",
+		"mask": "+81-##-####-####"
+	},
+	{
+		"country": "Japan",
+		"country_code": "JP",
+		"description": "",
+		"mask": "+81 (###) ###-###"
+	},
+	{
+		"country": "Jordan",
+		"country_code": "JO",
+		"description": "",
+		"mask": "+962-#-####-####"
+	},
+	{
+		"country": "Kazakhstan",
+		"country_code": "KZ",
+		"description": "",
+		"mask": "+7 (6##) ###-##-##"
+	},
+	{
+		"country": "Kazakhstan",
+		"country_code": "KZ",
+		"description": "",
+		"mask": "+7 (7##) ###-##-##"
+	},
+	{
+		"country": "Kenya",
+		"country_code": "KE",
+		"description": "",
+		"mask": "+254-###-######"
+	},
+	{
+		"country": "Kiribati",
+		"country_code": "KI",
+		"description": "",
+		"mask": "+686-##-###"
+	},
+	{
+		"country": "Korea  (South) ",
+		"country_code": "KR",
+		"description": "",
+		"mask": "+82-##-###-####"
+	},
+	{
+		"country": "Kuwait",
+		"country_code": "KW",
+		"description": "",
+		"mask": "+965-####-####"
+	},
+	{
+		"country": "Kyrgyzstan",
+		"country_code": "KG",
+		"description": "",
+		"mask": "+996 (###) ###-###"
+	},
+	{
+		"country": "Laos ",
+		"country_code": "LA",
+		"description": "mobile",
+		"mask": "+856 (20##) ###-###"
+	},
+	{
+		"country": "Laos",
+		"country_code": "LA",
+		"description": "",
+		"mask": "+856-##-###-###"
+	},
+	{
+		"country": "Latvia",
+		"country_code": "LV",
+		"description": "",
+		"mask": "+371-##-###-###"
+	},
+	{
+		"country": "Lebanon ",
+		"country_code": "LB",
+		"description": "mobile",
+		"mask": "+961-##-###-###"
+	},
+	{
+		"country": "Lebanon",
+		"country_code": "LB",
+		"description": "",
+		"mask": "+961-#-###-###"
+	},
+	{
+		"country": "Lesotho",
+		"country_code": "LS",
+		"description": "",
+		"mask": "+266-#-###-####"
+	},
+	{
+		"country": "Liberia",
+		"country_code": "LR",
+		"description": "",
+		"mask": "+231-##-###-###"
+	},
+	{
+		"country": "Libya",
+		"country_code": "LY",
+		"description": "",
+		"mask": "+218-##-###-###"
+	},
+	{
+		"country": "Libya",
+		"country_code": "LY",
+		"description": "",
+		"mask": "+218-21-###-####"
+	},
+	{
+		"country": "Liechtenstein",
+		"country_code": "LI",
+		"description": "",
+		"mask": "+423 (###) ###-####"
+	},
+	{
+		"country": "Lithuania",
+		"country_code": "LT",
+		"description": "",
+		"mask": "+370 (###) ##-###"
+	},
+	{
+		"country": "Luxembourg",
+		"country_code": "LU",
+		"description": "",
+		"mask": "+352 (###) ###-###"
+	},
+	{
+		"country": "Macau",
+		"country_code": "MO",
+		"description": "",
+		"mask": "+853-####-####"
+	},
+	{
+		"country": "Madagascar",
+		"country_code": "MG",
+		"description": "",
+		"mask": "+261-##-##-#####"
+	},
+	{
+		"country": "Malawi",
+		"country_code": "MW",
+		"description": "",
+		"mask": "+265-#-####-####"
+	},
+	{
+		"country": "Malawi",
+		"country_code": "MW",
+		"description": "",
+		"mask": "+265-1-###-###"
+	},
+	{
+		"country": "Malaysia ",
+		"country_code": "MY",
+		"description": "mobile",
+		"mask": "+60-##-###-####"
+	},
+	{
+		"country": "Malaysia",
+		"country_code": "MY",
+		"description": "",
+		"mask": "+60 (###) ###-###"
+	},
+	{
+		"country": "Malaysia",
+		"country_code": "MY",
+		"description": "",
+		"mask": "+60-##-###-###"
+	},
+	{
+		"country": "Malaysia",
+		"country_code": "MY",
+		"description": "",
+		"mask": "+60-#-###-###"
+	},
+	{
+		"country": "Maldives",
+		"country_code": "MV",
+		"description": "",
+		"mask": "+960-###-####"
+	},
+	{
+		"country": "Mali",
+		"country_code": "ML",
+		"description": "",
+		"mask": "+223-##-##-####"
+	},
+	{
+		"country": "Malta",
+		"country_code": "MT",
+		"description": "",
+		"mask": "+356-####-####"
+	},
+	{
+		"country": "Marshall Islands",
+		"country_code": "MH",
+		"description": "",
+		"mask": "+692-###-####"
+	},
+	{
+		"country": "Martinique",
+		"country_code": "MQ",
+		"description": "",
+		"mask": "+596 (###) ##-##-##"
+	},
+	{
+		"country": "Mauritania",
+		"country_code": "MR",
+		"description": "",
+		"mask": "+222-##-##-####"
+	},
+	{
+		"country": "Mauritius",
+		"country_code": "MU",
+		"description": "",
+		"mask": "+230-###-####"
+	},
+	{
+		"country": "Mayotte",
+		"country_code": "FR",
+		"description": "",
+		"mask": "+262-#####-####"
+	},
+	{
+		"country": "Mexico",
+		"country_code": "MX",
+		"description": "",
+		"mask": "+52 (###) ###-####"
+	},
+	{
+		"country": "Mexico",
+		"country_code": "MX",
+		"description": "",
+		"mask": "+52-##-##-####"
+	},
+	{
+		"country": "Moldova",
+		"country_code": "MD",
+		"description": "",
+		"mask": "+373-####-####"
+	},
+	{
+		"country": "Monaco",
+		"country_code": "MC",
+		"description": "",
+		"mask": "+377 (###) ###-###"
+	},
+	{
+		"country": "Monaco",
+		"country_code": "MC",
+		"description": "",
+		"mask": "+377-##-###-###"
+	},
+	{
+		"country": "Mongolia",
+		"country_code": "MN",
+		"description": "",
+		"mask": "+976-##-##-####"
+	},
+	{
+		"country": "Montenegro",
+		"country_code": "ME",
+		"description": "",
+		"mask": "+382-##-###-###"
+	},
+	{
+		"country": "Montserrat",
+		"country_code": "MS",
+		"description": "",
+		"mask": "+1 (664) ###-####"
+	},
+	{
+		"country": "Morocco",
+		"country_code": "MA",
+		"description": "",
+		"mask": "+212-##-####-###"
+	},
+	{
+		"country": "Mozambique",
+		"country_code": "MZ",
+		"description": "",
+		"mask": "+258-##-###-###"
+	},
+	{
+		"country": "Namibia",
+		"country_code": "NA",
+		"description": "",
+		"mask": "+264-##-###-####"
+	},
+	{
+		"country": "Nauru",
+		"country_code": "NR",
+		"description": "",
+		"mask": "+674-###-####"
+	},
+	{
+		"country": "Nepal",
+		"country_code": "NP",
+		"description": "",
+		"mask": "+977-##-###-###"
+	},
+	{
+		"country": "Netherlands Antilles",
+		"country_code": "AN",
+		"description": "",
+		"mask": "+599-###-####"
+	},
+	{
+		"country": "Netherlands Antilles",
+		"country_code": "AN",
+		"description": "",
+		"mask": "+599-9###-####"
+	},
+	{
+		"country": "Netherlands",
+		"country_code": "NL",
+		"description": "",
+		"mask": "+31-##-###-####"
+	},
+	{
+		"country": "New Caledonia",
+		"country_code": "NC",
+		"description": "",
+		"mask": "+687-##-####"
+	},
+	{
+		"country": "New Zealand",
+		"country_code": "NZ",
+		"description": "",
+		"mask": "+64 (###) ###-###"
+	},
+	{
+		"country": "New Zealand",
+		"country_code": "NZ",
+		"description": "",
+		"mask": "+64 (###) ###-####"
+	},
+	{
+		"country": "New Zealand",
+		"country_code": "NZ",
+		"description": "",
+		"mask": "+64-##-###-###"
+	},
+	{
+		"country": "Nicaragua",
+		"country_code": "NI",
+		"description": "",
+		"mask": "+505-####-####"
+	},
+	{
+		"country": "Niger",
+		"country_code": "NE",
+		"description": "",
+		"mask": "+227-##-##-####"
+	},
+	{
+		"country": "Nigeria ",
+		"country_code": "NG",
+		"description": "mobile",
+		"mask": "+234 (###) ###-####"
+	},
+	{
+		"country": "Nigeria",
+		"country_code": "NG",
+		"description": "",
+		"mask": "+234 (###) ###-####"
+	},
+	{
+		"country": "Nigeria",
+		"country_code": "NG",
+		"description": "",
+		"mask": "+234-##-###-##"
+	},
+	{
+		"country": "Nigeria",
+		"country_code": "NG",
+		"description": "",
+		"mask": "+234-##-###-###"
+	},
+	{
+		"country": "Niue",
+		"country_code": "NU",
+		"description": "",
+		"mask": "+683-####"
+	},
+	{
+		"country": "Norfolk Island",
+		"country_code": "NF",
+		"description": "",
+		"mask": "+672-3##-###"
+	},
+	{
+		"country": "Northern Mariana Islands",
+		"country_code": "MP",
+		"description": "",
+		"mask": "+1 (670) ###-####"
+	},
+	{
+		"country": "Norway",
+		"country_code": "NO",
+		"description": "",
+		"mask": "+47 (###) ##-###"
+	},
+	{
+		"country": "Oman",
+		"country_code": "OM",
+		"description": "",
+		"mask": "+968-##-###-###"
+	},
+	{
+		"country": "Pakistan",
+		"country_code": "PK",
+		"description": "",
+		"mask": "+92 (###) ###-####"
+	},
+	{
+		"country": "Palau",
+		"country_code": "PW",
+		"description": "",
+		"mask": "+680-###-####"
+	},
+	{
+		"country": "Palestine",
+		"country_code": "PS",
+		"description": "",
+		"mask": "+970-##-###-####"
+	},
+	{
+		"country": "Panama",
+		"country_code": "PA",
+		"description": "",
+		"mask": "+507-###-####"
+	},
+	{
+		"country": "Papua New Guinea",
+		"country_code": "PG",
+		"description": "",
+		"mask": "+675 (###) ##-###"
+	},
+	{
+		"country": "Paraguay",
+		"country_code": "PY",
+		"description": "",
+		"mask": "+595 (###) ###-###"
+	},
+	{
+		"country": "Peru",
+		"country_code": "PE",
+		"description": "",
+		"mask": "+51 (###) ###-###"
+	},
+	{
+		"country": "Philippines",
+		"country_code": "PH",
+		"description": "",
+		"mask": "+63 (###) ###-####"
+	},
+	{
+		"country": "Poland",
+		"country_code": "PL",
+		"description": "",
+		"mask": "+48 (###) ###-###"
+	},
+	{
+		"country": "Portugal",
+		"country_code": "PT",
+		"description": "",
+		"mask": "+351-##-###-####"
+	},
+	{
+		"country": "Qatar",
+		"country_code": "QA",
+		"description": "",
+		"mask": "+974-####-####"
+	},
+	{
+		"country": "Rep. of Georgia",
+		"country_code": "GE",
+		"description": "",
+		"mask": "+995 (###) ###-###"
+	},
+	{
+		"country": "Republic of Macedonia",
+		"country_code": "MK",
+		"description": "",
+		"mask": "+389-##-###-###"
+	},
+	{
+		"country": "Reunion",
+		"country_code": "RE",
+		"description": "",
+		"mask": "+262-#####-####"
+	},
+	{
+		"country": "Romania",
+		"country_code": "RO",
+		"description": "",
+		"mask": "+40-##-###-####"
+	},
+	{
+		"country": "Russia",
+		"country_code": "RU",
+		"description": "",
+		"mask": "+7 (###) ###-##-##"
+	},
+	{
+		"country": "Rwanda",
+		"country_code": "RW",
+		"description": "",
+		"mask": "+250 (###) ###-###"
+	},
+	{
+		"country": "Saint Helena",
+		"country_code": "SH",
+		"description": "",
+		"mask": "+290-####"
+	},
+	{
+		"country": "Saint Kitts & Nevis",
+		"country_code": "KN",
+		"description": "",
+		"mask": "+1 (869) ###-####"
+	},
+	{
+		"country": "Saint Lucia",
+		"country_code": "LC",
+		"description": "",
+		"mask": "+1 (758) ###-####"
+	},
+	{
+		"country": "Saint Vincent & the Grenadines",
+		"country_code": "VC",
+		"description": "",
+		"mask": "+1 (784) ###-####"
+	},
+	{
+		"country": "Samoa",
+		"country_code": "WS",
+		"description": "",
+		"mask": "+685-##-####"
+	},
+	{
+		"country": "San Marino",
+		"country_code": "SM",
+		"description": "",
+		"mask": "+378-####-######"
+	},
+	{
+		"country": "Sao Tome and Principe",
+		"country_code": "ST",
+		"description": "",
+		"mask": "+239-##-#####"
+	},
+	{
+		"country": "Saudi Arabia ",
+		"country_code": "SA",
+		"description": "mobile",
+		"mask": "+966-5-####-####"
+	},
+	{
+		"country": "Saudi Arabia",
+		"country_code": "SA",
+		"description": "",
+		"mask": "+966-#-###-####"
+	},
+	{
+		"country": "Senegal",
+		"country_code": "SN",
+		"description": "",
+		"mask": "+221-##-###-####"
+	},
+	{
+		"country": "Serbia",
+		"country_code": "RS",
+		"description": "",
+		"mask": "+381-##-###-####"
+	},
+	{
+		"country": "Seychelles",
+		"country_code": "SC",
+		"description": "",
+		"mask": "+248-#-###-###"
+	},
+	{
+		"country": "Sierra Leone",
+		"country_code": "SL",
+		"description": "",
+		"mask": "+232-##-######"
+	},
+	{
+		"country": "Singapore",
+		"country_code": "SG",
+		"description": "",
+		"mask": "+65-####-####"
+	},
+	{
+		"country": "Sint Maarten",
+		"country_code": "SX",
+		"description": "",
+		"mask": "+1 (721) ###-####"
+	},
+	{
+		"country": "Slovakia",
+		"country_code": "SK",
+		"description": "",
+		"mask": "+421 (###) ###-###"
+	},
+	{
+		"country": "Slovenia",
+		"country_code": "SI",
+		"description": "",
+		"mask": "+386-##-###-###"
+	},
+	{
+		"country": "Solomon Islands ",
+		"country_code": "SB",
+		"description": "mobile",
+		"mask": "+677-###-####"
+	},
+	{
+		"country": "Solomon Islands",
+		"country_code": "SB",
+		"description": "",
+		"mask": "+677-#####"
+	},
+	{
+		"country": "Somalia",
+		"country_code": "SO",
+		"description": "",
+		"mask": "+252-##-###-###"
+	},
+	{
+		"country": "Somalia",
+		"country_code": "SO",
+		"description": "",
+		"mask": "+252-#-###-###"
+	},
+	{
+		"country": "South Africa",
+		"country_code": "ZA",
+		"description": "",
+		"mask": "+27-##-###-####"
+	},
+	{
+		"country": "South Sudan",
+		"country_code": "SS",
+		"description": "",
+		"mask": "+211-##-###-####"
+	},
+	{
+		"country": "Spain",
+		"country_code": "ES",
+		"description": "",
+		"mask": "+34 (###) ###-###"
+	},
+	{
+		"country": "Sri Lanka",
+		"country_code": "LK",
+		"description": "",
+		"mask": "+94-##-###-####"
+	},
+	{
+		"country": "St Pierre & Miquelon",
+		"country_code": "FR",
+		"description": "",
+		"mask": "+508-##-####"
+	},
+	{
+		"country": "Sudan",
+		"country_code": "SD",
+		"description": "",
+		"mask": "+249-##-###-####"
+	},
+	{
+		"country": "Suriname ",
+		"country_code": "SR",
+		"description": "mobile",
+		"mask": "+597-###-####"
+	},
+	{
+		"country": "Suriname",
+		"country_code": "SR",
+		"description": "",
+		"mask": "+597-###-###"
+	},
+	{
+		"country": "Swaziland",
+		"country_code": "SZ",
+		"description": "",
+		"mask": "+268-##-##-####"
+	},
+	{
+		"country": "Sweden",
+		"country_code": "SE",
+		"description": "",
+		"mask": "+46-##-###-####"
+	},
+	{
+		"country": "Switzerland",
+		"country_code": "CH",
+		"description": "",
+		"mask": "+41-##-###-####"
+	},
+	{
+		"country": "Syrian Arab Republic",
+		"country_code": "SY",
+		"description": "",
+		"mask": "+963-##-####-###"
+	},
+	{
+		"country": "Taiwan",
+		"country_code": "TW",
+		"description": "",
+		"mask": "+886-####-####"
+	},
+	{
+		"country": "Taiwan",
+		"country_code": "TW",
+		"description": "",
+		"mask": "+886-#-####-####"
+	},
+	{
+		"country": "Tajikistan",
+		"country_code": "TJ",
+		"description": "",
+		"mask": "+992-##-###-####"
+	},
+	{
+		"country": "Tanzania",
+		"country_code": "TZ",
+		"description": "",
+		"mask": "+255-##-###-####"
+	},
+	{
+		"country": "Thailand ",
+		"country_code": "TH",
+		"description": "mobile",
+		"mask": "+66-##-###-####"
+	},
+	{
+		"country": "Thailand",
+		"country_code": "TH",
+		"description": "",
+		"mask": "+66-##-###-###"
+	},
+	{
+		"country": "Togo",
+		"country_code": "TG",
+		"description": "",
+		"mask": "+228-##-###-###"
+	},
+	{
+		"country": "Tokelau",
+		"country_code": "TK",
+		"description": "",
+		"mask": "+690-####"
+	},
+	{
+		"country": "Tonga",
+		"country_code": "TO",
+		"description": "",
+		"mask": "+676-#####"
+	},
+	{
+		"country": "Trinidad & Tobago",
+		"country_code": "TT",
+		"description": "",
+		"mask": "+1 (868) ###-####"
+	},
+	{
+		"country": "Tunisia",
+		"country_code": "TN",
+		"description": "",
+		"mask": "+216-##-###-###"
+	},
+	{
+		"country": "Turkey",
+		"country_code": "TR",
+		"description": "",
+		"mask": "+90 (###) ###-####"
+	},
+	{
+		"country": "Turkmenistan",
+		"country_code": "TM",
+		"description": "",
+		"mask": "+993-#-###-####"
+	},
+	{
+		"country": "Turks & Caicos",
+		"country_code": "TC",
+		"description": "",
+		"mask": "+1 (649) ###-####"
+	},
+	{
+		"country": "Tuvalu ",
+		"country_code": "TV",
+		"description": "mobile",
+		"mask": "+688-90####"
+	},
+	{
+		"country": "Tuvalu",
+		"country_code": "TV",
+		"description": "",
+		"mask": "+688-2####"
+	},
+	{
+		"country": "US Virgin Islands",
+		"country_code": "VI",
+		"description": "",
+		"mask": "+1 (340) ###-####"
+	},
+	{
+		"country": "USA",
+		"country_code": "US",
+		"description": "",
+		"mask": "+1 (###) ###-####"
+	},
+	{
+		"country": "Uganda",
+		"country_code": "UG",
+		"description": "",
+		"mask": "+256 (###) ###-###"
+	},
+	{
+		"country": "Ukraine",
+		"country_code": "UA",
+		"description": "",
+		"mask": "+380 (##) ###-##-##"
+	},
+	{
+		"country": "United Arab Emirates",
+		"country_code": "AE",
+		"description": "",
+		"mask": "+971 # ### ####"
+	},
+	{
+		"country": "United Arab Emirates",
+		"country_code": "AE",
+		"description": "mobile",
+		"mask": "+971 5# ### ####"
+	},
+	{
+		"country": "United Kingdom",
+		"country_code": "UK",
+		"description": "",
+		"mask": "+44-##-####-####"
+	},
+	{
+		"country": "Uruguay",
+		"country_code": "UY",
+		"description": "",
+		"mask": "+598-#-###-##-##"
+	},
+	{
+		"country": "Uzbekistan",
+		"country_code": "UZ",
+		"description": "",
+		"mask": "+998-##-###-####"
+	},
+	{
+		"country": "Vanuatu ",
+		"country_code": "VU",
+		"description": "mobile",
+		"mask": "+678-##-#####"
+	},
+	{
+		"country": "Vanuatu",
+		"country_code": "VU",
+		"description": "",
+		"mask": "+678-#####"
+	},
+	{
+		"country": "Vatican City",
+		"country_code": "VA",
+		"description": "",
+		"mask": "+39-6-698-#####"
+	},
+	{
+		"country": "Venezuela",
+		"country_code": "VE",
+		"description": "",
+		"mask": "+58 (###) ###-####"
+	},
+	{
+		"country": "Vietnam",
+		"country_code": "VN",
+		"description": "",
+		"mask": "+84 (###) ####-###"
+	},
+	{
+		"country": "Vietnam",
+		"country_code": "VN",
+		"description": "",
+		"mask": "+84-##-####-###"
+	},
+	{
+		"country": "Wallis and Futuna",
+		"country_code": "WF",
+		"description": "",
+		"mask": "+681-##-####"
+	},
+	{
+		"country": "Yemen ",
+		"country_code": "YE",
+		"description": "mobile",
+		"mask": "+967-###-###-###"
+	},
+	{
+		"country": "Yemen",
+		"country_code": "YE",
+		"description": "",
+		"mask": "+967-##-###-###"
+	},
+	{
+		"country": "Yemen",
+		"country_code": "YE",
+		"description": "",
+		"mask": "+967-#-###-###"
+	},
+	{
+		"country": "Zambia",
+		"country_code": "ZM",
+		"description": "",
+		"mask": "+260-##-###-####"
+	},
+	{
+		"country": "Zimbabwe",
+		"country_code": "ZW",
+		"description": "",
+		"mask": "+263-#-######"
+	}
+]
