@@ -14,7 +14,7 @@ class PhoneNumber extends Field
     public $component = 'nova-phone-field';
 
     /**
-     * Set custom formats, use # to represent [0,9]
+     * Set custom formats, use # to represent [0,9].
      *
      * @param mixed ...$customFormats
      * @return PhoneNumber
@@ -22,12 +22,12 @@ class PhoneNumber extends Field
     public function withCustomFormats(...$customFormats)
     {
         return $this->withMeta([
-            'customFormats' => array_flatten($customFormats)
+            'customFormats' => array_flatten($customFormats),
         ]);
     }
 
     /**
-     * Tells VueJS to load only masks from the given countries
+     * Tells VueJS to load only masks from the given countries.
      *
      * @param mixed ...$countries
      * @return PhoneNumber
@@ -35,19 +35,19 @@ class PhoneNumber extends Field
     public function onlyCountries(...$countries)
     {
         return $this->withMeta([
-            'onlyCountries' => array_flatten($countries)
+            'onlyCountries' => array_flatten($countries),
         ]);
     }
 
     /**
-     * Tells VueJS to load only the custom masks
+     * Tells VueJS to load only the custom masks.
      *
      * @return PhoneNumber
      */
     public function onlyCustomFormats()
     {
         return $this->withMeta([
-            'onlyCustomFormats' => true
+            'onlyCustomFormats' => true,
         ]);
     }
 }
