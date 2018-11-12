@@ -1,5 +1,7 @@
 # A Global Phone number field for Laravel Nova
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/bissolli/nova-phone-field.svg?style=flat-square)](https://packagist.org/packages/bissolli/nova-phone-field)
+[![Total Downloads](https://img.shields.io/packagist/dt/bissolli/nova-phone-field.svg?style=flat-square)](https://packagist.org/packages/bissolli/nova-phone-field)
 [![StyleCI](https://github.styleci.io/repos/157219733/shield?branch=master)](https://github.styleci.io/repos/157219733)
 
 Add to your Laravel Nova app a Global Phone Number field.
