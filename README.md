@@ -4,7 +4,7 @@
 
 Add to your Laravel Nova app a Global Phone Number field.
 
-
+![screenshot of the phone field](https://raw.githubusercontent.com/bissolli/nova-phone-field/master/screenshots/nova-phone-field.gif)
 
 ## Requirements
 
@@ -12,7 +12,7 @@ Laravel Nova, only =)
 
 ## Installation
 
-You can install this package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
+You can install this package into a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
 composer require bissolli/nova-phone-field
@@ -48,7 +48,7 @@ Now you can view and add tags on the blog posts screen in your Nova app. All tag
 
 ### Filtering
 
-By default, every country mask available inside `bissolli/nova-phone-field/resources/js/data/phone-masks.json` will be loaded and working, however you can always select the desired countries calling the `onlyCountries()` method.
+By default, every country mask available inside `bissolli/nova-phone-field/resources/js/data/phone-masks.json` will be loaded and working. However, you can always select the desired countries calling the `onlyCountries()` method.
 
 ```php
 PhoneNumber::make('Phone Number')
@@ -86,13 +86,13 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security
 
-If you discover any security related issues, please email gustavo.bissolli@gmail.com instead of using the issue tracker.
+If you discover any security-related issues, please email gustavo.bissolli@gmail.com instead of using the issue tracker.
 
 ## Credits
 
 - [Gustavo Bissolli](https://github.com/bissolli)
 
-Especial thanks to [Robin Herbots](https://github.com/RobinHerbots) who built one of the best [InputMask](https://github.com/RobinHerbots/Inputmask) from the internet. 
+Special thanks to [Robin Herbots](https://github.com/RobinHerbots) who built one of the best [InputMask](https://github.com/RobinHerbots/Inputmask) from the internet. 
 
 ## License
 
