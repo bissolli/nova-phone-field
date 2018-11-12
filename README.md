@@ -8,8 +8,7 @@ Add to your Laravel Nova app a Global Phone Number field.
 
 ## Requirements
 
-Laravel Nova, of course =).
-That's it.
+Laravel Nova, only =)
 
 ## Installation
 
@@ -47,7 +46,7 @@ class Member extends Resource
 
 Now you can view and add tags on the blog posts screen in your Nova app. All tags will be saved in the `tags` table. 
 
-## Filtering countries
+### Filtering
 
 By default, every country mask available inside `bissolli/nova-phone-field/resources/js/data/phone-masks.json` will be loaded and working, however you can always select the desired countries calling the `onlyCountries()` method.
 
@@ -55,6 +54,8 @@ By default, every country mask available inside `bissolli/nova-phone-field/resou
 PhoneNumber::make('Phone Number')
     ->onlyCountries('BR', 'US', 'IE'),
 ```
+
+### Custom number format
 
 You can also add custom phone formats with `withCustomFormats()`.
 
@@ -71,11 +72,11 @@ PhoneNumber::make('Phone Number')
     ->onlyCustomFormats(),
 ```
 
-### Testing
+## Testing
 
 To be implemented
 
-### Changelog
+## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
 
@@ -83,7 +84,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-### Security
+## Security
 
 If you discover any security related issues, please email gustavo.bissolli@gmail.com instead of using the issue tracker.
 
