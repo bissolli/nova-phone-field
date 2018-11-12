@@ -1,8 +1,10 @@
 # A Global Phone number field for Laravel Nova
 
+[![StyleCI](https://github.styleci.io/repos/157219733/shield?branch=master)](https://github.styleci.io/repos/157219733)
+
 Add to your Laravel Nova app a Global Phone Number field.
 
-![screenshot of the tags field](https://spatie.github.io/nova-tags-field/screenshot.png)
+
 
 ## Requirements
 
