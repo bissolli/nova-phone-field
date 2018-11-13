@@ -1,6 +1,6 @@
 {
     "name": "bissolli/nova-phone-field",
-    "description": "A phone field for Laravel Nova apps.",
+    "description": "Nova Phone Number field with a dynamic mask based on the country code inserted by the user.",
     "keywords": [
         "laravel",
         "nova",

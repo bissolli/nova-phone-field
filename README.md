@@ -1,10 +1,10 @@
-# A Global Phone number field for Laravel Nova
+# A global Phone Number field for Laravel Nova
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/bissolli/nova-phone-field.svg?style=flat-square)](https://packagist.org/packages/bissolli/nova-phone-field)
 [![Total Downloads](https://img.shields.io/packagist/dt/bissolli/nova-phone-field.svg?style=flat-square)](https://packagist.org/packages/bissolli/nova-phone-field)
 [![StyleCI](https://github.styleci.io/repos/157219733/shield?branch=master)](https://github.styleci.io/repos/157219733)
 
-Add to your Laravel Nova app a Global Phone Number field.
+Nova Phone Number field with a dynamic mask based on the country code inserted by the user.
 
 ![screenshot of the phone field](https://raw.githubusercontent.com/bissolli/nova-phone-field/master/screenshots/nova-phone-field.gif)
 
@@ -73,6 +73,14 @@ PhoneNumber::make('Phone Number')
     ->withCustomFormats('+123 ## #.#', '+123 ## ####.####')
     ->onlyCustomFormats(),
 ```
+
+### Changelog
+
+Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security
 
