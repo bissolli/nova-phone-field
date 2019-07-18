@@ -7,7 +7,7 @@ export default {
     props: ['resourceName', 'field'],
     computed: {
         unmaskedValue() {
-            return this.field.value.replace(/\D/g, '');
+            return this.field.value ? this.field.value.replace(/\D/g, '') : '';
         }
     }
 };
