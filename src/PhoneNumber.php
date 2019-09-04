@@ -3,7 +3,7 @@
 namespace Bissolli\NovaPhoneField;
 
 use Laravel\Nova\Fields\Field;
-
+use Illuminate\Support\Arr;
 class PhoneNumber extends Field
 {
     /**
@@ -22,7 +22,7 @@ class PhoneNumber extends Field
     public function withCustomFormats(...$customFormats)
     {
         return $this->withMeta([
-            'customFormats' => array_flatten($customFormats),
+            'customFormats' => Arr::flatten($customFormats),
         ]);
     }
 
@@ -35,7 +35,7 @@ class PhoneNumber extends Field
     public function onlyCountries(...$countries)
     {
         return $this->withMeta([
-            'onlyCountries' => array_flatten($countries),
+            'onlyCountries' => Arr::flatten($countries),
         ]);
     }
 
