@@ -10,7 +10,8 @@ Nova Phone Number field with a dynamic mask based on the country code inserted b
 
 ## Requirements
 
-Laravel Nova, only =)
+- Laravel Nova
+- Laravel Framework **5.0 ~ 5.8**
 
 ## Installation
 
