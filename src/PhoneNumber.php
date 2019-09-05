@@ -2,9 +2,8 @@
 
 namespace Bissolli\NovaPhoneField;
 
-use Illuminate\Support\Arr;
 use Laravel\Nova\Fields\Field;
-
+use Illuminate\Support\Arr;
 
 class PhoneNumber extends Field
 {
